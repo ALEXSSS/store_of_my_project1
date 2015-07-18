@@ -1,0 +1,15 @@
+c:\users\александр\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Filtrs.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\александр\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Filtrs.csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\александр\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\александр\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\александр\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\александр\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\ProgressBarV1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\ProgressBarV1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\ProgressBarV1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\ProgressBarV1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\ProgressBarV1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\ProgressBarV1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb

@@ -1,0 +1,9 @@
+c:\users\александр\documents\visual studio 2013\Projects\Lab5SuperVersion\Lab5SuperVersion\bin\Debug\Lab5SuperVersion.exe.config
+c:\users\александр\documents\visual studio 2013\Projects\Lab5SuperVersion\Lab5SuperVersion\bin\Debug\Lab5SuperVersion.exe
+c:\users\александр\documents\visual studio 2013\Projects\Lab5SuperVersion\Lab5SuperVersion\bin\Debug\Lab5SuperVersion.pdb
+c:\users\александр\documents\visual studio 2013\Projects\Lab5SuperVersion\Lab5SuperVersion\obj\Debug\Lab5SuperVersion.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\Lab5SuperVersion\Lab5SuperVersion\obj\Debug\Lab5SuperVersion.Form1.resources
+c:\users\александр\documents\visual studio 2013\Projects\Lab5SuperVersion\Lab5SuperVersion\obj\Debug\Lab5SuperVersion.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2013\Projects\Lab5SuperVersion\Lab5SuperVersion\obj\Debug\Lab5SuperVersion.csproj.GenerateResource.Cache
+c:\users\александр\documents\visual studio 2013\Projects\Lab5SuperVersion\Lab5SuperVersion\obj\Debug\Lab5SuperVersion.exe
+c:\users\александр\documents\visual studio 2013\Projects\Lab5SuperVersion\Lab5SuperVersion\obj\Debug\Lab5SuperVersion.pdb

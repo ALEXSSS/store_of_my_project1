@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/LinearLayoutFirstScreen"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:padding="5dp" >
+
+<ImageView
+    android:id="@+id/iconFirst"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:src="@drawable/first_scr"
+    android:layout_marginBottom="-20dp"
+    android:layout_marginTop="-20dp"
+    android:background="#FFFFFF"
+    />
+
+</LinearLayout>

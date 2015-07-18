@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\Александр\Desktop\ChatV2\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Александр\Desktop\ChatV2\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Александр\Desktop\ChatV2\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\ChatV2\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\ChatV2\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\ChatV2\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\Александр\Desktop\ChatV2\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Александр\Desktop\ChatV2\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Александр\Desktop\ChatV2\ConsoleApplication7\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\ChatV2\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\ChatV2\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\ChatV2\ConsoleApplication7\obj\Debug\Chat.csprojResolveAssemblyReference.cache

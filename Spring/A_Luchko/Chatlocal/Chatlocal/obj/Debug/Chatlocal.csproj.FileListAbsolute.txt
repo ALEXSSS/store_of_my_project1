@@ -1,0 +1,12 @@
+c:\users\александр\documents\visual studio 2013\Projects\Chatlocal\Chatlocal\bin\Debug\Chatlocal.exe.config
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Chatlocal\Chatlocal\bin\Debug\Chatlocal.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Chatlocal\Chatlocal\bin\Debug\Chatlocal.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Chatlocal\Chatlocal\obj\Debug\Chatlocal.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Chatlocal\Chatlocal\obj\Debug\Chatlocal.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Chatlocal\Chatlocal\obj\Debug\Chatlocal.pdb
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\Chatlocal\Chatlocal\bin\Debug\Chatlocal.exe.config
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\Chatlocal\Chatlocal\obj\Debug\Chatlocal.exe
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\Chatlocal\Chatlocal\obj\Debug\Chatlocal.pdb
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\Chatlocal\Chatlocal\bin\Debug\Chatlocal.exe
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\Chatlocal\Chatlocal\bin\Debug\Chatlocal.pdb
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\Chatlocal\Chatlocal\obj\Debug\Chatlocal.csprojResolveAssemblyReference.cache

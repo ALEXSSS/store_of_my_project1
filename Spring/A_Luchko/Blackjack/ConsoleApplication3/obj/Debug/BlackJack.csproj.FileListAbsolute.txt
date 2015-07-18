@@ -1,0 +1,18 @@
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\BlackJack\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\BlackJack\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\BlackJack\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\BlackJack\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\BlackJack\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\BlackJack\ConsoleApplication3\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\Blackjack\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\Blackjack\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\Blackjack\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\Blackjack\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\Blackjack\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\Blackjack\ConsoleApplication3\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache

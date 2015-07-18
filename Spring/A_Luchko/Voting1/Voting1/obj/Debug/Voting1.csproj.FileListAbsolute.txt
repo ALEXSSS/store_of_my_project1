@@ -1,0 +1,12 @@
+c:\users\александр\documents\visual studio 2013\Projects\Voting1\Voting1\bin\Debug\Voting1.exe.config
+c:\users\александр\documents\visual studio 2013\Projects\Voting1\Voting1\obj\Debug\Voting1.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\Voting1\Voting1\bin\Debug\Voting1.exe
+c:\users\александр\documents\visual studio 2013\Projects\Voting1\Voting1\bin\Debug\Voting1.pdb
+c:\users\александр\documents\visual studio 2013\Projects\Voting1\Voting1\obj\Debug\Voting1.exe
+c:\users\александр\documents\visual studio 2013\Projects\Voting1\Voting1\obj\Debug\Voting1.pdb
+C:\Users\Александр\Desktop\Voting1\Voting1\bin\Debug\Voting1.exe.config
+C:\Users\Александр\Desktop\Voting1\Voting1\obj\Debug\Voting1.exe
+C:\Users\Александр\Desktop\Voting1\Voting1\obj\Debug\Voting1.pdb
+C:\Users\Александр\Desktop\Voting1\Voting1\obj\Debug\Voting1.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Voting1\Voting1\bin\Debug\Voting1.exe
+C:\Users\Александр\Desktop\Voting1\Voting1\bin\Debug\Voting1.pdb

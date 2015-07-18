@@ -1,0 +1,97 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="10"
+    android:layout_below="@+id/imageViewInfo"
+    android:id="@+id/scrollView1"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="fill_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.alex.try3.InfoActivity">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:id="@+id/imageViewInfo"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:textSize="30dp"
+        android:layout_below="@+id/imageViewInfo"
+        android:id="@+id/textViewForTitle" />
+
+    <TextView
+        android:layout_below="@+id/textViewForTitle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Тут пока пусто!"
+        android:id="@+id/textInfo2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_alignParentBottom="true"
+        >
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/material_blue_grey_800"
+            android:text="+"
+            android:textSize="40dp"
+            android:textColor="#ffffff"
+            android:id="@+id/buttoninfo"
+            android:layout_weight="1"
+            android:onClick="ChangeOrNext"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/material_blue_grey_800"
+            android:text="-"
+            android:textSize="50dp"
+            android:textColor="#ffffff"
+            android:id="@+id/buttoninfo1"
+            android:layout_weight="1"
+            android:onClick="ChangeOrNext"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/material_blue_grey_800"
+            android:text="завтра"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:id="@+id/buttoninfo3"
+            android:layout_weight="1"
+            android:onClick="ChangeOrNext"
+            />
+    </LinearLayout>
+
+</LinearLayout>

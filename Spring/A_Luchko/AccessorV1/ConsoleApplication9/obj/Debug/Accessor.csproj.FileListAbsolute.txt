@@ -1,0 +1,18 @@
+c:\users\александр\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\Accessor.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+c:\users\александр\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+c:\users\александр\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+c:\users\александр\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+c:\users\александр\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\Александр\Desktop\AccessorV1\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Александр\Desktop\AccessorV1\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\Александр\Desktop\AccessorV1\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\Александр\Desktop\AccessorV1\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\Александр\Desktop\AccessorV1\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\Александр\Desktop\AccessorV1\ConsoleApplication9\obj\Debug\Accessor.csprojResolveAssemblyReference.cache
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\AccessorV1\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\AccessorV1\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\AccessorV1\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\AccessorV1\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\AccessorV1\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+D:\spsu-mm-programming-sartasov\Spring\142\A_Luchko\AccessorV1\ConsoleApplication9\obj\Debug\Accessor.csprojResolveAssemblyReference.cache
